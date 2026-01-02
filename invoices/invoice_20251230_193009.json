@@ -1,0 +1,10 @@
+{
+    "invoice_id": "INV-20251230193009",
+    "date": "30-12-2025",
+    "invoice_template": "Academic",
+    "description": "Invoice required for Final Year Diploma Engineering Project.\n\nProject Title:\nAI Powered Report and Invoice Generator System\n\nProject Scope Includes:\n- Design and development of AI-based report generation system\n- Automated invoice generation in JSON and PDF formats\n- Drag-and-drop support for PDF and JSON files\n- Multiple report and invoice templates (Academic, Business, Technical)\n- History management with delete functionality\n- User-friendly interface using Streamlit\n- Secure file handling and data storage\n\nTechnology Used:\n- Python programming language\n- Streamlit framework for frontend\n- ReportLab library for PDF generation\n- JSON for structured invoice data\n\nPurpose of Invoice:\nAcademic project submission and evaluation.\n\nAmount Details:\nBase amount \u20b98000\nGST 18%\nTotal payable \u20b99440\n\nPayment Status:\nPending\n",
+    "amount": "\u20b98000",
+    "tax": "18%",
+    "total": "\u20b99440",
+    "status": "Pending"
+}

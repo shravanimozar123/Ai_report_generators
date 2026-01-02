@@ -1,0 +1,10 @@
+{
+    "invoice_id": "INV-20260102140538",
+    "date": "02-01-2026",
+    "invoice_template": "Academic",
+    "description": "Generate a comprehensive and professionally written Academic Project Report on an AI-Powered Report and Invoice Generator System.\n\nThe report should be suitable for final year diploma/engineering project submission and institutional evaluation.\n\nInclude the following sections in detail:\n\nTitle of the Project\n\nExecutive Summary\n\nIntroduction\n\nProblem Statement\n\nObjectives of the System\n\nScope of the Project\n\nSystem Architecture Description\n\nTechnology Stack Used (Frontend, Backend, Libraries)\n\nDataset Description and Data Handling\n\nWorkflow and Methodology\n\nReport Generation Module Explanation\n\nInvoice Generation Module Explanation\n\nJSON-Based Data Storage and Processing\n\nDrag and Drop File Upload Functionality\n\nPDF and JSON Export Features\n\nHistory Management and Delete Functionality\n\nAdvantages of the System\n\nLimitations of the System\n\nSecurity and Data Privacy Considerations\n\nFuture Enhancements\n\nConclusion",
+    "amount": "\u20b98000",
+    "tax": "18%",
+    "total": "\u20b99440",
+    "status": "Pending"
+}
