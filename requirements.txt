@@ -3,3 +3,6 @@ reportlab
 pandas
 python-docx
 PyPDF2
+openai
+Pillow
+python-dotenv
